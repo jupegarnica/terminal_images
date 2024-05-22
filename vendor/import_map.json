@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "https://cdn.skypack.dev/upng-js@v2.1.0": "./cdn.skypack.dev/upng-js@v2.1.0.js",
+    "https://cdn.skypack.dev/omggif": "./cdn.skypack.dev/omggif.js",
+    "https://cdn.skypack.dev/": "./cdn.skypack.dev/",
+    "https://deno.land/": "./deno.land/"
+  },
+  "scopes": {
+    "./cdn.skypack.dev/": {
+      "/-/pako@v1.0.11-HN3j6r6YXxSYMQQ5YY76/pako.js": "./cdn.skypack.dev/-/pako@v1.0.11-HN3j6r6YXxSYMQQ5YY76/pako.js",
+      "/-/omggif@v1.0.10-x1xaPs90PtyYoJBD89az/omggif.js": "./cdn.skypack.dev/-/omggif@v1.0.10-x1xaPs90PtyYoJBD89az/omggif.js",
+      "/-/upng-js@v2.1.0-0HHmz2GI6WqeC7DqHucX/upng-js.js": "./cdn.skypack.dev/-/upng-js@v2.1.0-0HHmz2GI6WqeC7DqHucX/dist=es2019,mode=imports/optimized/upng-js.js"
+    }
+  }
+}

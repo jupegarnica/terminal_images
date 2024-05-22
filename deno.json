@@ -1,0 +1,6 @@
+{
+  "version": "3.1.0",
+  "exports": "./mod.ts",
+  "name": "@garn/terminal-images",
+  "importMap": "./vendor/import_map.json"
+}
